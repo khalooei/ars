@@ -3,7 +3,7 @@ A descriptive anchor and stack for adversarial machine learning researchers
 
 
 #### MNIST
- ((Linf) attacks)
+ (*Linf* attacks)
 |       |   0.01   |   0.03   |   0.1   |   0.2   |   0.3   |
 |-------|----------|----------|---------|---------|---------|
 |  FGSM   |   98.44   |   96.51   |   73.56  |   23.59   |   *13.32*   |
