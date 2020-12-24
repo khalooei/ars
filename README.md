@@ -2,7 +2,7 @@
 A descriptive anchor and stack for adversarial machine learning researchers
 
 
-#### (*Linf* attacks)
+### *Linf* attacks
 * MNIST dataset (Kaggle CNN model)
 
 |       |   0.01   |   0.03   |   0.1   |   0.2   |   0.3   |
