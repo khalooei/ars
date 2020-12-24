@@ -2,10 +2,13 @@
 A descriptive anchor and stack for adversarial machine learning researchers
 
 ## Training
-* base training <br>
+* Base training <br>
 	![adversarial training base model khalooei](./imgs/base-model.png)
-* adversarial training (FGSM) <br>
+* Adversarial training (FGSM) <br>
         ![adversarial training fgsm model khalooei](./imgs/adv-training-fgsm-model.png)
+* Adversarial training (FAST) <br>
+        ![adversarial training fast model khalooei](./imgs/adv-training-fast-model.png)
+
 ## Attacks
 We try to evaluate some popular attacks and distinguish different parameters which discussed more in the paper.
 
