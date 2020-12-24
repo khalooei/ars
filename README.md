@@ -25,8 +25,8 @@ A descriptive anchor and stack for adversarial machine learning researchers
 	<tbody>
 		<tr>
 			<td></td>
-			<td colspan="2">**MNIST**</td>
-			<td colspan="2">**CIFAR10**</td>
+			<td colspan="2"> <b> MNIST </b></td>
+			<td colspan="2"> <b> CIFAR10 </b></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -36,18 +36,18 @@ A descriptive anchor and stack for adversarial machine learning researchers
 			<td>Time (s)</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>CW</td>
+			<td>99.07</td>
+			<td>6.47</td>
+			<td>0.14</td>
+			<td>805.78</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>DeepFool</td>
+			<td>30.40</td>
+			<td>15375.4</td>
+			<td>27.68</td>
+			<td>46143.5</td>
 		</tr>
 	</tbody>
 
