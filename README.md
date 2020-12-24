@@ -1,6 +1,8 @@
 # Adversarial Robustess Stack
 A descriptive anchor and stack for adversarial machine learning researchers
 
+## Attacks
+We try to evaluate some popular attacks and distinguish different parameters which discussed more in the paper.
 
 ### *Linf* attacks
 * MNIST dataset (Kaggle CNN model)
@@ -18,7 +20,6 @@ A descriptive anchor and stack for adversarial machine learning researchers
 |  FGSM   |  24.03  |   11.44   |   10.59  |      |   **13.32**   |
 |  PGD-50 |   **2.319**   |   0.00  | 0.00   |   0.00   |   0.00  |
 |  FFGSM  |   34.94 |   20.30  |  7.90  |   5.63   |   3.91  |
-
 
 ### *L2* attacks
 <table>
@@ -51,6 +52,53 @@ A descriptive anchor and stack for adversarial machine learning researchers
 		</tr>
 	</tbody>
 
+</table>
+
+# Defenses
+We try to focus on *Adversarial training* as a popular and useful method of defending against most adversarial settings. Also, we noted that the attack module in adversarial training is much more important and it is used as an attack-depended defense approach.
+
+<table>
+	<tbody>
+		<tr>
+			<td></td>
+			<td colspan="4">ACC</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>-</td>
+			<td>FGSM</td>
+			<td>PGD</td>
+			<td>FFGSM</td>
+		</tr>
+		<tr>
+			<td>Base</td>
+			<td>96.09</td>
+			<td>11.44</td>
+			<td>0.00</td>
+			<td>20.30</td>
+		</tr>
+		<tr>
+			<td>Adv-FGSM</td>
+			<td>83.59</td>
+			<td>99.11</td>
+			<td>0.00</td>
+			<td>25.54</td>
+		</tr>
+		<tr>
+			<td>Adv-PGD</td>
+			<td>91.40</td>
+			<td>58.90</td>
+			<td>49.22</td>
+			<td>80.40</td>
+		</tr>
+		<tr>
+			<td>Adv-FFGSM</td>
+			<td>78.90</td>
+			<td>95.86</td>
+			<td>4.40</td>
+			<td>4.40</td>
+		</tr>
+	</tbody>
 </table>
 
 [TBC]
