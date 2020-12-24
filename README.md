@@ -49,7 +49,7 @@ We try to evaluate some popular attacks and distinguish different parameters whi
 		<tr>
 			<td>CW</td>
 			<td>99.07</td>
-			<td>6.47</td>
+			<td><b>6.47</b></td>
 			<td><b>0.14</b></td>
 			<td><b>805.78</b></td>
 		</tr>
