@@ -72,7 +72,7 @@ We try to focus on *Adversarial training* as a popular and useful method of defe
 		</tr>
 		<tr>
 			<td>Base</td>
-			<td>96.09</td>
+			<td><b>96.09</b></td>
 			<td>11.44</td>
 			<td>0.00</td>
 			<td>20.30</td>
@@ -80,7 +80,7 @@ We try to focus on *Adversarial training* as a popular and useful method of defe
 		<tr>
 			<td>Adv-FGSM</td>
 			<td>83.59</td>
-			<td>99.11</td>
+			<td><b>99.11</b></td>
 			<td>0.00</td>
 			<td>25.54</td>
 		</tr>
@@ -88,8 +88,8 @@ We try to focus on *Adversarial training* as a popular and useful method of defe
 			<td>Adv-PGD</td>
 			<td>91.40</td>
 			<td>58.90</td>
-			<td>49.22</td>
-			<td>80.40</td>
+			<td><b>49.22</b></td>
+			<td><b>80.40</b></td>
 		</tr>
 		<tr>
 			<td>Adv-FFGSM</td>
@@ -108,5 +108,5 @@ We try to focus on *Adversarial training* as a popular and useful method of defe
 
 <hr>
 
-* © LIMP & SDAL laboratory
+* © <a href="http://limp.aut.ac.ir">LIMP</a> & <a href="http://ce.sdal.ce.aut.ac.ir">SDAL</a> laboratory
 * © Amirkabir University of Technology
