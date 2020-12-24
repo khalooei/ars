@@ -1,13 +1,15 @@
 # Adversarial Robustess Stack
 A descriptive anchor and stack for adversarial machine learning researchers
 
-## Training
-* Base training <br>
-	![adversarial training base model khalooei](./imgs/base-model.png)
-* Adversarial training (FGSM) <br>
-        ![adversarial training fgsm model khalooei](./imgs/adv-training-fgsm-model.png)
-* Adversarial training (FAST) <br>
-        ![adversarial training fast model khalooei](./imgs/adv-training-fast-model.png)
+
+[comment]: ## Training
+[comment]: * Base training <br>
+[comment]: 	![adversarial training base model khalooei](./imgs/base-model.png)
+[comment]: * Adversarial training (FGSM) <br>
+[comment]:         ![adversarial training fgsm model khalooei](./imgs/adv-training-fgsm-model.png)
+[comment]: * Adversarial training (FAST) <br>
+[comment]:         ![adversarial training fast model khalooei](./imgs/adv-training-fast-model.png)
+
 
 ## Attacks
 We try to evaluate some popular attacks and distinguish different parameters which discussed more in the paper.
