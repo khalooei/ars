@@ -1,6 +1,20 @@
 # Adversarial Robustess Stack
 A descriptive anchor and stack for adversarial machine learning researchers
 
+<!--
+## Citation
+
+If you want to cite this research, please use the following BibTex:
+```
+@article{kim2020torchattacks,
+  title={Torchattacks: A Pytorch Repository for Adversarial Attacks},
+  author={Kim, Hoki},
+  journal={arXiv preprint arXiv:2010.01950},
+  year={2020}
+}
+```
+-->
+
 <!---
 ## Training
 * Base training <br>
