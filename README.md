@@ -2,7 +2,7 @@
 A descriptive anchor and stack for adversarial machine learning researchers
 
 ## Training
-*base training*
+* base training
 ![adversarial training base model khalooei](./imgs/base-model.png)
 
 ## Attacks
