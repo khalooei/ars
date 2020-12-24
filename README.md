@@ -4,6 +4,7 @@ A descriptive anchor and stack for adversarial machine learning researchers
 
 #### (*Linf* attacks)
 * MNIST dataset (Kaggle CNN model)
+
 |       |   0.01   |   0.03   |   0.1   |   0.2   |   0.3   |
 |-------|----------|----------|---------|---------|---------|
 |  FGSM   |   98.44   |   96.51   |   73.56  |   23.59   |   **13.32**   |
@@ -11,6 +12,7 @@ A descriptive anchor and stack for adversarial machine learning researchers
 |  FFGSM  |   98.42 |   96.42  |  **84.28**  |   **38.74**   |   12.03   |
 
 * CIFAR10 dataset (WRN-28 model)
+
 |       |   0.01   |   0.03   |   0.1   |   0.2   |   0.3   |
 |-------|----------|----------|---------|---------|---------|
 |  FGSM   |  24.03  |   11.44   |   10.59  |      |   **13.32**   |
