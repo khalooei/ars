@@ -25,15 +25,15 @@ A descriptive anchor and stack for adversarial machine learning researchers
 	<tbody>
 		<tr>
 			<td></td>
-			<td colspan="2"></td>
-			<td colspan="2"></td>
+			<td colspan="2">**MNIST**</td>
+			<td colspan="2">**CIFAR10**</td>
 		</tr>
 		<tr>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>ACC</td>
+			<td>Time (s)</td>
+			<td>ACC</td>
+			<td>Time (s)</td>
 		</tr>
 		<tr>
 			<td></td>
