@@ -22,14 +22,6 @@ A descriptive anchor and stack for adversarial machine learning researchers
 
 ### *L2* attacks
 <table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>MNIST</th>
-            <th>CIFAR10</th>
-        </tr>
-    </thead>
-
 	<tbody>
 		<tr>
 			<td></td>
