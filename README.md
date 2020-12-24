@@ -55,9 +55,9 @@ We try to evaluate some popular attacks and distinguish different parameters whi
 		</tr>
 		<tr>
 			<td>DeepFool</td>
-			<td>30.40</td>
+			<td><b>30.40</b></td>
 			<td>15375.4</td>
-			<td><b>27.68</b></td>
+			<td>27.68</td>
 			<td>46143.5</td>
 		</tr>
 	</tbody>
