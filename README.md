@@ -1,15 +1,15 @@
 # Adversarial Robustess Stack
 A descriptive anchor and stack for adversarial machine learning researchers
 
-
-[comment]: ## Training
-[comment]: * Base training <br>
-[comment]: 	![adversarial training base model khalooei](./imgs/base-model.png)
-[comment]: * Adversarial training (FGSM) <br>
-[comment]:         ![adversarial training fgsm model khalooei](./imgs/adv-training-fgsm-model.png)
-[comment]: * Adversarial training (FAST) <br>
-[comment]:         ![adversarial training fast model khalooei](./imgs/adv-training-fast-model.png)
-
+<!---
+## Training
+* Base training <br>
+ 	![adversarial training base model khalooei](./imgs/base-model.png)
+* Adversarial training (FGSM) <br>
+         ![adversarial training fgsm model khalooei](./imgs/adv-training-fgsm-model.png)
+* Adversarial training (FAST) <br>
+        ![adversarial training fast model khalooei](./imgs/adv-training-fast-model.png)
+-->
 
 ## Attacks
 We try to evaluate some popular attacks and distinguish different parameters which discussed more in the paper.
@@ -50,14 +50,14 @@ We try to evaluate some popular attacks and distinguish different parameters whi
 			<td>CW</td>
 			<td>99.07</td>
 			<td>6.47</td>
-			<td>0.14</td>
-			<td>805.78</td>
+			<td><b>0.14</b></td>
+			<td><b>805.78</b></td>
 		</tr>
 		<tr>
 			<td>DeepFool</td>
 			<td>30.40</td>
 			<td>15375.4</td>
-			<td>27.68</td>
+			<td><b>27.68</b></td>
 			<td>46143.5</td>
 		</tr>
 	</tbody>
