@@ -105,8 +105,8 @@ We try to focus on *Adversarial training* as a popular and useful method of defe
 			<td>Adv-FFGSM</td>
 			<td>78.90</td>
 			<td>95.86</td>
-			<td>4.40</td>
-			<td>4.40</td>
+			<td>0.00</td>
+			<td>4.60</td>
 		</tr>
 	</tbody>
 </table>
