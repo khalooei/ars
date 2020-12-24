@@ -26,8 +26,8 @@ We try to evaluate some popular attacks and distinguish different parameters whi
 	<tbody>
 		<tr>
 			<td></td>
-			<td colspan="2"> <b> MNIST </b></td>
-			<td colspan="2"> <b> CIFAR10 </b></td>
+			<td colspan="2"><center> <b> MNIST </b> </center></td>
+			<td colspan="2"><center> <b> CIFAR10 </b> </center></td>
 		</tr>
 		<tr>
 			<td></td>
@@ -61,7 +61,7 @@ We try to focus on *Adversarial training* as a popular and useful method of defe
 	<tbody>
 		<tr>
 			<td></td>
-			<td colspan="4">ACC</td>
+			<td colspan="4"><center> <b> ACC </b> </center></td>
 		</tr>
 		<tr>
 			<td></td>
