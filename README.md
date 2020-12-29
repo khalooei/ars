@@ -78,7 +78,7 @@ We try to evaluate some popular attacks and distinguish different parameters whi
 
 </table>
 
-# Defenses
+## Defenses
 We try to focus on *Adversarial training* as a popular and useful method of defending against most adversarial settings. Also, we noted that the attack module in adversarial training is much more important and it is used as an attack-depended defense approach.
 
 <table>
